@@ -15,11 +15,11 @@ This is simple digital notice board system. It contains three parts of view
 
 4.This is similar to Admin panel "DigitalNoticeBoard\index.php" login with same.
 
-5.you only update message as image so use services to convert your documents in images and upload as a message.
+5.You can only update message as images so use this project services link to convert your documents to images and upload as a message.
 
 6.Now Navigate to mobile application view home page and display page "DigitalNoticeBoard\Displayboard\controls.php".
 
-7.click buttons in mobile application. view "control.php" page clicks will reflect in browser window.
+7.click buttons in mobile application. view "control.php" page clicks will trigger action in browser window.
 
 
 **before, create "digitalnoticeboard" database in your MySQLcpanel and import "digitalnoticeboard.sql" file into that.

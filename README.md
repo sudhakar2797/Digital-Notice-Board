@@ -19,7 +19,7 @@ This is simple digital notice board system. It contains three parts of view
 
 6.Now Navigate to mobile application view home page and display page "DigitalNoticeBoard\Displayboard\controls.php".
 
-7.click buttons in mobile application view page it will reflect in browser window.
+7.click buttons in mobile application. view "control.php" page clicks will reflect in browser window.
 
 
 **before, create "digitalnoticeboard" database in your MySQLcpanel and import "digitalnoticeboard.sql" file into that.
